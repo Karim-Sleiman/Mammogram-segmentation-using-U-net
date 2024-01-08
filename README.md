@@ -26,13 +26,16 @@ The goal of image enhancement is to increase the radiologists’ confidence in m
 
 ## 🛠️ Methodology
 a.	Dataset: The dataset was obtained from Kaggle. The images were originally acquired at a breast center located in a university hospital (Centro Hospitalar de S. Joao [CHSJ], Breast Center, Porto) with the permission of the Portuguese National Committee of Data Protection and Hospital's Ethics Committee. The database-INBreast has a total of 115 cases (410 images) from which 90 cases are from women with both breasts affected (four images per case) and 25 cases are from mastectomy patients (two images per case). Several types of lesions (masses, calcifications, asymmetries, and distortions) were included. Accurate contours made by specialists are also provided in XML format. 
-b.	Code and Algorithm
-     1. Image Enhancement: The image enhancement technique used was histogram equalization. 
-     2. GUI: The Graphical User Interface was designed in a simple way to display the results of the algorithm. It mainly contains the following widgets:
 
-●	 Select Button: allows the user to choose an image from the computer and display it.
-●	Enhance Button: displays the enhancement results on the chosen image.
-●	Segment Button: Displays the Segmentation results on the chosen image.
+b.	Code and Algorithm
+
+     1. Image Enhancement: The image enhancement technique used was histogram equalization. 
+     
+     2. GUI: The Graphical User Interface was designed in a simple way to display the results of the algorithm. It mainly contains the following widgets:
+     
+     - Select Button: allows the user to choose an image from the computer and display it.
+     - Enhance Button: displays the enhancement results on the chosen image.
+     - Segment Button: Displays the Segmentation results on the chosen image.
 
 ## 📁 Repository Composition
 The repository consists of the following files:
