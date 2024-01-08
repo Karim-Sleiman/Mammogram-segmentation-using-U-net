@@ -29,7 +29,7 @@ a.	Dataset: The dataset was obtained from Kaggle. The images were originally acq
 
 b.	Code and Algorithm
 
-     1. Image Enhancement: The image enhancement technique used was histogram equalization. 
+     1. Image Enhancement and Segmentation: The image enhancement technique used is histogram equalization, the user uploads a mammogram and the image is enhanced for easy prediction. The segmentation part of the system uses a U-Net convolution network, accepts a mammogram image and its mask, and predicts the location of the tumor. 
      
      2. GUI: The Graphical User Interface was designed in a simple way to display the results of the algorithm. It mainly contains the following widgets:
      
