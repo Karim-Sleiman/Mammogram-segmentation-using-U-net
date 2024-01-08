@@ -51,3 +51,11 @@ Efforts in employing image enhancement techniques aim to augment radiologists' i
 ## 🔖 References
 - Almalki YE, Soomro TA, Irfan M, Alduraibi SK, Ali A. [Impact of Image Enhancement Module for Analysis of Mammogram Images for Diagnostics of Breast Cancer.](https://www.mdpi.com/1424-8220/22/5/1868) Sensors (Basel). 2022 Feb 26;22(5):1868.
 - Ganesan, K., Acharya, U. R., Chua, C. K., Min, L. C., Abraham, K. T., & Ng, K. H. (2013). [Computer-aided breast cancer detection using mammograms: A review.](https://doi.org/10.1109/RBME.2012.2232289) IEEE Reviews in Biomedical Engineering, 6, 77–98.
+
+## 📌 Note
+This project was made possible by the contributions of:
+- [Mohamad El Zein]
+- [Luna Bitar]
+- [Joana Mansa]
+- [Habtamu Yihun]
+- [Karim Sleiman]
